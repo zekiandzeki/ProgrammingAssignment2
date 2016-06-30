@@ -1,5 +1,5 @@
-##             
-##              
+##              https://github.com/zekiandzeki/ProgrammingAssignment2
+##              SHA-1 hash: 27987823fcf81d46a5e2186391addd87c079b879
 ##              This is part of the Coursera - R Programming course
 ##              Week 3 Assignment 2: Lexical Scoping
 ##              caching the inverse of a matrix
